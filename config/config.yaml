@@ -1,0 +1,11 @@
+postgres:
+  host:
+  port:
+  user:
+  db_name:
+  password:
+http_server:
+  address: localhost:8080
+  timeout: 5s
+  idle_timeout: 60s
+  jwt_secret_key: "jwt"
